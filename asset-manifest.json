@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Telegram-ui/static/js/main.65c3bf97.js",
+    "static/js/445.3135ec73.chunk.js": "/Telegram-ui/static/js/445.3135ec73.chunk.js",
+    "static/js/397.fb132cc4.chunk.js": "/Telegram-ui/static/js/397.fb132cc4.chunk.js",
+    "static/js/483.b590d065.chunk.js": "/Telegram-ui/static/js/483.b590d065.chunk.js",
+    "static/js/688.139ce986.chunk.js": "/Telegram-ui/static/js/688.139ce986.chunk.js",
+    "static/js/138.cf1ee002.chunk.js": "/Telegram-ui/static/js/138.cf1ee002.chunk.js",
+    "index.html": "/Telegram-ui/index.html",
+    "main.65c3bf97.js.map": "/Telegram-ui/static/js/main.65c3bf97.js.map",
+    "445.3135ec73.chunk.js.map": "/Telegram-ui/static/js/445.3135ec73.chunk.js.map",
+    "397.fb132cc4.chunk.js.map": "/Telegram-ui/static/js/397.fb132cc4.chunk.js.map",
+    "483.b590d065.chunk.js.map": "/Telegram-ui/static/js/483.b590d065.chunk.js.map",
+    "688.139ce986.chunk.js.map": "/Telegram-ui/static/js/688.139ce986.chunk.js.map",
+    "138.cf1ee002.chunk.js.map": "/Telegram-ui/static/js/138.cf1ee002.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.65c3bf97.js"
+  ]
+}
