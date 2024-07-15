@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.3978d9bd.js",
-    "static/js/445.21c30d55.chunk.js": "/static/js/445.21c30d55.chunk.js",
-    "static/js/397.3f1a0825.chunk.js": "/static/js/397.3f1a0825.chunk.js",
-    "static/js/483.ce3d88e3.chunk.js": "/static/js/483.ce3d88e3.chunk.js",
-    "static/js/688.89b57f92.chunk.js": "/static/js/688.89b57f92.chunk.js",
-    "static/js/138.947ee755.chunk.js": "/static/js/138.947ee755.chunk.js",
-    "index.html": "/index.html",
-    "main.3978d9bd.js.map": "/static/js/main.3978d9bd.js.map",
-    "445.21c30d55.chunk.js.map": "/static/js/445.21c30d55.chunk.js.map",
-    "397.3f1a0825.chunk.js.map": "/static/js/397.3f1a0825.chunk.js.map",
-    "483.ce3d88e3.chunk.js.map": "/static/js/483.ce3d88e3.chunk.js.map",
-    "688.89b57f92.chunk.js.map": "/static/js/688.89b57f92.chunk.js.map",
-    "138.947ee755.chunk.js.map": "/static/js/138.947ee755.chunk.js.map"
+    "main.js": "/Telegram-ui/static/js/main.65c3bf97.js",
+    "static/js/445.3135ec73.chunk.js": "/Telegram-ui/static/js/445.3135ec73.chunk.js",
+    "static/js/397.fb132cc4.chunk.js": "/Telegram-ui/static/js/397.fb132cc4.chunk.js",
+    "static/js/483.b590d065.chunk.js": "/Telegram-ui/static/js/483.b590d065.chunk.js",
+    "static/js/688.139ce986.chunk.js": "/Telegram-ui/static/js/688.139ce986.chunk.js",
+    "static/js/138.cf1ee002.chunk.js": "/Telegram-ui/static/js/138.cf1ee002.chunk.js",
+    "index.html": "/Telegram-ui/index.html",
+    "main.65c3bf97.js.map": "/Telegram-ui/static/js/main.65c3bf97.js.map",
+    "445.3135ec73.chunk.js.map": "/Telegram-ui/static/js/445.3135ec73.chunk.js.map",
+    "397.fb132cc4.chunk.js.map": "/Telegram-ui/static/js/397.fb132cc4.chunk.js.map",
+    "483.b590d065.chunk.js.map": "/Telegram-ui/static/js/483.b590d065.chunk.js.map",
+    "688.139ce986.chunk.js.map": "/Telegram-ui/static/js/688.139ce986.chunk.js.map",
+    "138.cf1ee002.chunk.js.map": "/Telegram-ui/static/js/138.cf1ee002.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3978d9bd.js"
+    "static/js/main.65c3bf97.js"
   ]
 }

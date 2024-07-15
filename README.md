@@ -1,20 +1,9 @@
 # Telegram UI
 Telegram UI built with React, TypeScript, and Styled-Components.
 
-## Table of Contents
-- [Screenshots](#screenshots)
-- [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [Theming](#theming)
-- [Contribution](#contribution)
-- [Support Me](#support-me)
-
-## Screenshots
-![entry](https://user-images.githubusercontent.com/44744039/224526394-642e3187-57c7-47e2-995e-3f67fa52eeea.png)
-![dark-ui](https://user-images.githubusercontent.com/44744039/224526440-b4eb6a54-4dda-430c-a681-286f5b406fe7.png)
-![dark-search](https://user-images.githubusercontent.com/44744039/224526449-02bc4f77-7071-415e-98b8-3ade74c9967b.png)
-![light-chat](https://user-images.githubusercontent.com/44744039/224526453-7b835f09-e25e-4bdf-894f-c1b253a8c31d.png)
-![light-profile](https://user-images.githubusercontent.com/44744039/224526456-40c82430-70cb-44e3-82ac-182efde8255f.png)
+## Live Ste URL
+1 - https://66956ff3588c7d80a4bd8931--euphonious-seahorse-5930f6.netlify.app/
+2 - https://prikas1.github.io/Telegram-ui/
 
 
 ## Running the Application
